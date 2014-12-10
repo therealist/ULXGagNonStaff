@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+        "name"              "ULX GagNonStaff"
+        "version"           "1.0"
+        "author_name"       "The Realist"
+        "author_email"      ""
+        "info"              "Gags players who are not staff."
+        "override"          "0"
+}
